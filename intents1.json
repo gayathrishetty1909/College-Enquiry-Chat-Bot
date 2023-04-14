@@ -66,7 +66,7 @@
                                 "who designed you"
                         ],
                         "responses": [
-                                "Harsh, Simran and Abhishek developed me in 2021, for their mini project"
+                                "gayathri, nageshwari developed me in 2023, for their mini project"
                    	],
                         "context_set": ""
                 },
@@ -90,7 +90,7 @@
                         "responses": [
                                 "You can call me PHCET Chatbot.",
                                 "I'm College Enquiry Chatbot",
-                                "I'm PHCET Chatbot aka College Enquiry Chatbot"
+                                "I'm CBIT  Chatbot  College Enquiry Chatbot"
 			],
                         "context_set": ""
                 },
@@ -116,7 +116,7 @@
                                 "timing college"
                         ],
                         "responses": [
-                                "College is open 9am-5pm Monday-Friday!"
+                                "College is open 9am-4pm Monday-Friday!"
                         ],
                         "context_set": ""
                 },
@@ -141,7 +141,7 @@
                                 "call"
                         ],
                         "responses": [
-                                "You can contact at 02192669000"
+                                "You can contact at 040-24193276"
                         ],
                         "context_set": ""
                 },
@@ -150,43 +150,43 @@
                         "patterns": [
                                 "list of courses",
                                 "list of courses offered",
-                                "list of courses offered in PHCET",
+                                "list of courses offered in CBIT",
                                 "what are the courses offered in your college?",
                                 "courses?",
                                 "courses offered",
-                                "courses offered in PHCET",
+                                "courses offered in CBIT",
                                 "courses you offer",
                                 "branches?",
-                                "courses available at PHCET?",
-                                "branches available at PHCET?",
-                                "what are the courses in PHCET?",
-                                "what are branches in PHCET?",
-                                "what are courses in PHCET?",
-                                "branches available in PHCET?",
-                                "can you tell me the courses available in PHCET?",
-                                "can you tell me the branches available in PHCET?",
+                                "courses available at CBITT?",
+                                "branches available at CBIT?",
+                                "what are the courses in CBIT?",
+                                "what are branches in CBIT?",
+                                "what are courses in CBIT?",
+                                "branches available in CBIT?",
+                                "can you tell me the courses available in CBIT?",
+                                "can you tell me the branches available in CBIT?",
                                 "Civil engineering?",
                                 "Computer engineering?",
                                 "IT engineering?",
-                                "Automobile engineering?",
+                                "Artificiaal intelligence and data science engineering?",
                                 "Mechanical engineering?",
-                                "EXTC engineering?",
+                                "ML engineering?",
                                 "Electrical engineering?",
                                 "civil",
                                 "it",
                                 "IT",
                                 "Computer",
-                                "Automobile",
+                                "Artificial intelligenece and data science",
                                 "Mechanical",
-                                "EXTC",
+                                "ML",
                                 "Electrical",
                                 "Comps",
-                                "Auto",
+                                "AI & DS",
                                 "Mech",
-                                "extc"
+                                "ML"
                         ],
                         "responses": [
-                                "Bachelors Programmes provided are Automobile Engineering, Civil Engineering, Computer Engineering, Electrical Engineering, Electronics and Telecommunications Engineering, Information Technology Engineering,Mechanical Engineering and Applied Sciences.For more details visit<a target=\"_blank\" href=\"https://phcet.ac.in/academics/\"> here</a>"
+                                "Bachelors Programmes provided are Artificail intelligence and data science Engineering, Civil Engineering, Computer Engineering, Electrical Engineering, Electronics and Machine learning Engineering, Information Technology Engineering,Mechanical Engineering and Applied Sciences.For more details visit<a target=\"_blank\" href=\"https://www.shiksha.com/college/chaitanya-bharathi-institute-of-technology-hyderabad-gandipet-24090/courses/\"> here</a>"
                         ],
                         "context_set": ""
                 },
@@ -209,25 +209,25 @@
                                 "tell me something about the fees",
                                 "fees fe",
                                 "fees se",
-                                "fees te",
+                                "feesai",
                                 "fees be",
                                 "fees me",
                                 "fees comps",
                                 "fees it",
                                 "fees mech",
-                                "fees auto",
+                                "fees ml",
                                 "fees extc",
                                 "fees electrical",
                                 "fees computer",
                                 "fees mechanical",
-                                "fees automobile",
+                                "fees machine learning",
                                 "fees open fe",
                                 "fees open se",
                                 "fees open te",
                                 "fees open be"
                         ],
                         "responses": [
-                                "For Fee details visit <a target=\"_blank\" href=\"https://phcet.ac.in/academics/admissions/fee-structure/\"> here</a>"
+                                "For Fee details visit <a target=\"_blank\" href=\"https://www.cbit.ac.in/academic_post/academic/\"> here</a>"
                         ],
                         "context_set": ""
                 },
@@ -250,7 +250,7 @@
                                 "location"
                         ],
                         "responses": [
-                                "Gandipet , Hyderabad , Ranga Reddy district 500073 For more details visit <a target=\"_blank\" href=\"https://goo.gl/maps/nABAciXu58ty7PyX6\"> here</a>"
+                                "Gandipet , Hyderabad , Ranga Reddy district 500073 For more details visit <a target=\"_blank\" href=\"https://in.search.yahoo.com/search?fr=mcafee&type=E211IN714G0&p=cbit+address\"> here</a>"
 																			
                         ],
                         "context_set": ""
@@ -282,7 +282,7 @@
                                 "distance between hostel and college"
                         ],
                         "responses": [
-				"CBIT provides safe and affordable hostel facilities for boys and girls. For more details visit <a target=\"_blank\" href=\"https://phcet.ac.in/about/infrastructure-and-facilities/hostel-facility/\"> here</a>"
+				"CBIT provides safe and affordable hostel facilities for boys. For more details visit <a target=\"_blank\" href=\"https://www.cbit.ac.in/about_post/hostel-committee//\"> here</a>"
                         													
 				   ],
                         "context_set": ""
@@ -303,8 +303,8 @@
                                 "what about infrastructure"
                         ],
                         "responses": [
-                                " For campus tour please visit the following link.<a target=\"_blank\" href=\"https://phcet.ac.in/about/infrastructure-and-facilities/campus-tour/\"> here</a>",
-                                "For infrastructure details visit <a target=\"_blank\" href=\"https://phcet.ac.in/about/infrastructure-and-facilities/\"> here</a>"
+                                
+                                "For infrastructure details visit <a target=\"_blank\" href=\"https://www.cbit.ac.in/current_students/facilities//\"> here</a>"
                         ],
                         "context_set": ""
                 },
@@ -324,8 +324,8 @@
                                 "what about events"
                         ],
                         "responses": [
-                                "Our college organizes various events during academics.Many Events are useful for technical skils and placements activities.There are many events which are held by deparments.<a target=\"_blank\" href=\"https://phcet.ac.in/news-and-events/news-notifications/\"> here</a>",
-                                "Our CBIT organizes FESTIVAL every year.There are major 2 fest in our college.1)EUFORIA 2)TECH-EUFORIA. Visit <a target=\"_blank\" href=\"https://phcet.ac.in/news-and-events/news-notifications/\"> here</a>"
+                                "Our college organizes various events during academics.Many Events are useful for technical skils and placements activities.There are many events which are held by deparments.<a target=\"_blank\" href=\"https://www.cbit.ac.in/campuslife_post/campus-life//\"> here</a>",
+                                "Our CBIT organizes FESTIVAL every year.There are major 2 fest in our college.1)SUDHEE 2)SHRUTHI. Visit <a target=\"_blank\" href=\"https://www.cbit.ac.in/campuslife_post/campus-life/\"> here</a>"
                         ],
                         "context_set": ""
                 },
@@ -347,7 +347,7 @@
                                 "documents needed"
                         ],
                         "responses": [
-                                "To know more about documents required visit<a target=\"_blank\" href=\"https://phcet.ac.in/academics/admissions/list-of-document-required/\"> here</a>"
+                                "To know more about documents required visit<a target=\"_blank\" href=\"https://www.cbit.ac.in/admission_post/admissions/\"> here</a>"
                         ],						
                         "context_set": ""
                 },
@@ -363,7 +363,7 @@
                                 "What is next lecture"
                         ],
                         "responses": [
-                                "Syllabus of all years and departments is available in the link below. <a target=\"_blank\" href=\"https://cbit.ac.in/academics/syllabus/\"> here</a>"
+                                "Syllabus of all years and departments is available in the link below. <a target=\"_blank\" href=\"https://www.cbit.ac.in/academic_post/academic/\"> here</a>"
                         ],
                         "context_set": ""
                 },
@@ -384,7 +384,7 @@
                                 "how many libraries"
                         ],
                         "responses": [
-                                "CBIT has a huge and spacious library on the second floor. For more details visit <a target=\"_blank\" href=\"https://xbit.ac.in/library/library-information/\"> here</a>"
+                                "CBIT has a huge and spacious library on the second floor. For more details visit <a target=\"_blank\" href=\"https://www.cbit.ac.in/library_post/library/\"> here</a>"
                         ],
                         "context_set": ""
                 },
@@ -403,7 +403,7 @@
                                 "Cafetaria"
                         ],
                         "responses": [
-                                "CBIT has canteen with variety of food available. <a target=\"_blank\" href=\"https://cbit.ac.in/about/infrastructure-and-facilities/\"> here</a>"
+                                "CBIT has canteen with variety of food available. <a target=\"_blank\" href=\"https://www.cbit.ac.in/campuslife_post/campus-life/\"> here</a>"
                         ],
                         "context_set": ""
                 },
@@ -434,8 +434,8 @@
                                 "companies"
                         ],
                         "responses": [
-                                "Various companies are coming to recruite our students and offer maximum packages.MAIN RECRUITERS are TCS,RELIANCE JIO,L AND T INFOTECH etc.For more information visit <a target=\"_blank\" href=\"https://phcet.ac.in/students/placements/our-recruiters/\">here</a>",
-                                "Our college oragnise various activities related to placements.For latest update visit <a target=\"_blank\" href=\"https://phcet.ac.in/students/placements/placement-cell-activities/\">here</a>"
+                                "Various companies are coming to recruite our students and offer maximum packages.MAIN RECRUITERS are TCS,RELIANCE JIO,L AND T INFOTECH etc.For more information visit <a target=\"_blank\" href=\"https://www.cbit.ac.in/current_students/recruitement-advertisement-2022/\">here</a>",
+                                "Our college oragnise various activities related to placements.For latest update visit <a target=\"_blank\" href=\"https://www.cbit.ac.in/placement_post/placement/\">here</a>"
                         ],
                         "context_set": ""
                 },
@@ -448,7 +448,7 @@
                                 "name of it hod"
                         ],
                         "responses": [
-                                "Mr. Amol N. Karande is IT HOD who is available on the 4th floor. To know more visit <a target=\"_blank\" href=\"https://phcet.ac.in/faculty/faculty-directory/\">here</a>"
+                                "Dr. A. Rajanikanth is IT HOD who is available on the 1th floor. To know more visit <a target=\"_blank\"https://www.cbit.ac.in/academic_post/it-hod-message/\">here</a>"
                         ],
                         "context_set": ""
                 },
@@ -461,7 +461,7 @@
                                 "name of civil hod"
                         ],
                         "responses": [
-                                "Dr. Amit Das Gupta is Civil HOD who is available on 5th floor. To know more visit <a target=\"_blank\" href=\"https://phcet.ac.in/faculty/faculty-directory/\">here</a>"
+                                "Dr. K JAGANNADHA RAO is Civil HOD who is available on 1th floor. To know more visit <a target=\"_blank\" href=\"https://www.cbit.ac.in/academic_post/department-of-civil-engineering//\">here</a>"
                         ],
                         "context_set": ""
                 },
@@ -474,7 +474,7 @@
                                 "name of mechanical hod"
                         ],
                         "responses": [
-                                "Dr. Gajendra Vasantrao Patil is Mechanical HOD who is available on 3rd floor. To know more visit <a target=\"_blank\" href=\"https://phcet.ac.in/faculty/faculty-directory/\">here</a>"
+                                "Dr. P. Prabhakar Reddy is Mechanical HOD who is available on 3rd floor. To know more visit <a target=\"_blank\" href=\"https://www.cbit.ac.in/current_students/mechanical-engineering-faculty/\">here</a>"
                         ],
                         "context_set": ""
                 },
@@ -487,20 +487,20 @@
                                "name of computer hod"
                        ],
                        "responses": [
-                               "Dr. Ashok Kanthe is Computer HOD who is available on 4th floor. To know more visit <a target=\"_blank\" href=\"https://phcet.ac.in/faculty/faculty-directory/\">here</a>"
+                               "Dr. M. Swamy Das HOD who is available on 1th floor. To know more visit <a target=\"_blank\" href=\"https://www.cbit.ac.in/academic_post/cse-hod-message//\">here</a>"
                         ],
                         "context_set": ""
                 },
                 {
                        "tag": "autohod",
                        "patterns": [
-                               "Who is Automobile HOD",
-                               "Where is Automobile HOD",
-                               "automobile hod",
-                               "name of automobile hod"
+                               "Who is Artificial intelligence and data science HOD",
+                               "Where is  Artificial intelligence and data science HOD",
+                               " Artificial intelligence and data science hod",
+                               "name of  Artificial intelligence and data science hod"
                        ],
                        "responses": [
-                               "Mr. Vivek Meshram is Automobile HOD who is available on 3rd floor. To know more visit <a target=\"_blank\" href=\"https://phcet.ac.in/faculty/faculty-directory/\">here</a>"
+                               "Dr. Kadiyala RamanaHOD who is available on 3rd floor. To know more visit <a target=\"_blank\" href=\"https://www.cbit.ac.in/academic_post/artificial-intelligence-data-science-hod-message/\">here</a>"
                         ],
                         "context_set": ""
                 },
@@ -513,36 +513,24 @@
                                "name of electrical hod"
                        ],
                        "responses": [
-                               "Dr. Panimaya Selvi Isabel A. is Electrical HOD who is available on 5th floor. To know more visit <a target=\"_blank\" href=\"https://cbit.ac.in/faculty/faculty-directory/\">here</a>"
+                               " Dr. M. Bala Subba Reddyis Electrical HOD who is available on 3th floor. To know more visit <a target=\"_blank\" href=\"https://www.cbit.ac.in/academic_post/eee-hod-message/\">here</a>"
                         ],
                         "context_set": ""
                 },
                 {
-                      "tag": "extchod",
+                      "tag": "mlhod",
                       "patterns": [
-                              "Who is EXTC HOD",
-                              "Where is EXTC HOD",
-                              "extc hod",
-                              "name of extc hod"
+                              "Who is ML HOD",
+                              "Where is ML HOD",
+                              "ml hod",
+                              "name of ml hod"
                       ],
                       "responses": [
-                              "Dr. Mansi S. Subhedar is EXTC HOD who is available on 1st floor. To know more visit <a target=\"_blank\" href=\"https://phcet.ac.in/faculty/faculty-directory/\">here</a>"
+                              "Dr. Sugandha Singh is ML HOD who is available on 1st floor. To know more visit <a target=\"_blank\" href=\"https://www.cbit.ac.in/academic_post/cse-aiml-aiml-hod-message/\">here</a>"
                         ],
                         "context_set": ""
                 },
-                {
-                      "tag": "fehod",
-                      "patterns": [
-                              "Who is FE HOD",
-                              "Where is FE HOD",
-                              "fe hod",
-                              "name of fe hod"
-                      ],
-                      "responses": [
-                              "Dr. Manvendra Vashisht is FE/ASH HOD who is available on Ground floor. To know more visit <a target=\"_blank\" href=\"https://phcet.ac.in/faculty/faculty-directory/\">here</a>"
-                        ],
-                        "context_set": ""
-                },
+                
                 {
                         "tag": "principal",
                         "patterns": [
@@ -555,7 +543,7 @@
                                 "name of principal"
                         ],
                         "responses": [
-                                "Dr. Mathew T. Joseph is college principal who is available on 1st floor. To know more visit <a target=\"_blank\" href=\"https://phcet.ac.in/faculty/faculty-directory/\">here</a>"
+                                "Dr. P. Ravinder Reddy is college principal who is available on 1st floor. To know more visit <a target=\"_blank\" href=\"https://www.cbit.ac.in/about_post/principal/\">here</a>"
                         ],
                         "context_set": ""
                 },
@@ -576,7 +564,7 @@
                                 "admission engineering"
                         ],
                         "responses": [
-                                "Application can also be submitted online through the Mumbai Unversity. Refer <a href=https://phcet.ac.in/academics/admissions/admissions-and-eligibility>website</a>"
+                                "Application can also be submitted online through the OU Unversity.
                         ],
                         "context_set": ""
                 },
@@ -608,7 +596,7 @@
                                 "seats"
                         ],
                         "responses": [
-                                "For Computer and Civil, the intake is 120.For IT, Electrical, EXTC and Automobile 60 per batch. Mechanical Department has 180 students intake. "
+                                "For Computer and Civil, the intake is 120.For IT, Electrical, CSE and Artificial intelligenece, Machine learning 60 per batch. Mechanical Department has 180 students intake. "
                         ],
                         "context_set": ""
                 },
@@ -626,7 +614,7 @@
                                 "do we have to wear uniform"
                         ],
                         "responses": [
-                                "PHCET does not have uniform"
+                                "CBIT does not have uniform"
                         ],
                         "context_set": ""
                 },
@@ -741,7 +729,7 @@
                                 "list of buses for travelling"    
                         ],
                         "responses":[
-                                "CBIT provides bus facility to students through various places like Panvel, Kharghar, Uran, Alibag, Pen, Karjat, etc."
+                                "CBIT provides bus facility to students through various places like Hyderada, Karimnagar, Mumbai, Adilabad, etc."
                         ]
                 },
                 {
@@ -756,11 +744,11 @@
                                 "scholarship be",
                                 "available scholarships",
                                 "scholarship for computer engineering",
-                                "scholarship for automobile engineering",
+                                "scholarship for artificial intelligence and data science engineering",
                                 "scholarship for IT engineering",
                                 "scholarship for mechanical engineering",
                                 "scholarship for civil engineering",
-                                "scholarship for extc engineering",
+                                "scholarship for machine leerning engineering",
                                 "scholarship for electrical engineering",
                                 "list of scholarship",
                                 "comps scholarship",
@@ -768,15 +756,15 @@
                                 "mechanical scholarship",
                                 "civil scholarship",
                                 "electrical scholarship",
-                                "extc scholarship",
-                                "automobile scholarship",
+                                "machine learning scholarship",
+                                "artificial intelligence and data science scholarship",
                                 "first year scholarship",
                                 "second year scholarship",																				
                                 "third year scholarship",
                                 "fourth year scholarship"
                         ],
                         "responses":[
-                                "Many government scholarships are supported by PHCET. For details and updates visit <a target=\"_blank\" href=\"https://mahadbtmahait.gov.in/Home/Index\">here</a>"
+                                "Many government scholarships are supported by CBIT. For details and updates visit <a target=\"_blank\" href=\"https://www.cbit.ac.in/about_post/scholarship/\">here</a>"
                         ]
                 },
                 {
@@ -791,8 +779,8 @@
                                 "computer faculty",
                                 "IT faculty",
                                 "mechanical faculty",
-                                "automobile faculty",
-                                "extc faculty",
+                                " Artificial intelligence and data sciencee faculty",
+                                "machine learning faculty",
                                 "electrical faculty",
                                 "civil faculty",
                                 "engineering faculty",
@@ -810,7 +798,7 @@
                                 "faculty?"
                         ],
                         "responses":[
-                                "CBIT has a highly qualified and experienced faculty. For details visit <a target=\"_blank\" href=/\"https://phcet.ac.in/faculty/faculty-directory/\">here</a>"
+                                "CBIT has a highly qualified and experienced faculty.
                         ]
                 },
                 {
@@ -827,7 +815,7 @@
                                 "where to login"
                         ],
                         "responses":[
-                                "For student portal link visit<a target=\"_blank\" href=/\"https://phcetstudentportal.mes.ac.in/\">here</a>"
+                                "For student portal visit mycamu.
                         ]
                 },
                 {
@@ -842,7 +830,7 @@
                                 "please provide faculty portal link"
                         ],
                         "responses":[
-                                "For Faculty portal link visit<a target=\"_blank\" href=/\"https://phcet.ac.in/faculty/faculty-directory/\">here</a>"
+                                "For Faculty portal.
                         ]
                 },
                 {
@@ -857,7 +845,7 @@
                                 "please provide sports and games information"
                         ],
                         "responses":[
-                                "CBIT encourages all-round development of students and hence provides sports facilities in the campus. For more details visit<a target=\"_blank\" href=/\"https://phcet.ac.in/students/sports-and-games/\">here</a>"
+                                "CBIT encourages all-round development of students and hence provides sports facilities in the campus. For more details visit<a target=\"_blank\" href=/\https://www.cbit.ac.in/campuslife_post/chaitanya-kreeda/\">here</a>"
                         ]
                 },
                 {
@@ -867,7 +855,7 @@
                                 "college fest",
                                 "euforia",
                                 "tech euforia",
-                                "PHCET fests",
+                                "CBIT fests",
                                 "information fest",
                                 "please provide fests information",
                                 "euforia information",
@@ -886,7 +874,7 @@
                                 "fests?"
                         ],
                         "responses":[
-                                "CBIT encourages all-round development of students and hence organizes vibrant fests like Euforia and Tech Euforia in the campus. For more details visit<a target=\"_blank\" href=/\"https://phcet.ac.in/students/campus-fest/euforia/\">here</a>"
+                                "CBIT encourages all-round development of students and hence organizes vibrant fests like SUDHEE and SRUTHI in the campus. For more details visit<a target=\"_blank\" href=/\"https://www.knowafest.com/explore/college/Chaitanya-Bharathi-Institute-Of-Technology-CBIT\">here</a>"
                         ]
                 }
                 
