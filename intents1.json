@@ -282,7 +282,7 @@
                                 "distance between hostel and college"
                         ],
                         "responses": [
-				"PHCET provides safe and affordable hostel facilities for boys and girls. For more details visit <a target=\"_blank\" href=\"https://phcet.ac.in/about/infrastructure-and-facilities/hostel-facility/\"> here</a>"
+				"CBIT provides safe and affordable hostel facilities for boys and girls. For more details visit <a target=\"_blank\" href=\"https://phcet.ac.in/about/infrastructure-and-facilities/hostel-facility/\"> here</a>"
                         													
 				   ],
                         "context_set": ""
@@ -325,7 +325,7 @@
                         ],
                         "responses": [
                                 "Our college organizes various events during academics.Many Events are useful for technical skils and placements activities.There are many events which are held by deparments.<a target=\"_blank\" href=\"https://phcet.ac.in/news-and-events/news-notifications/\"> here</a>",
-                                "Our PHCET organizes FESTIVAL every year.There are major 2 fest in our college.1)EUFORIA 2)TECH-EUFORIA. Visit <a target=\"_blank\" href=\"https://phcet.ac.in/news-and-events/news-notifications/\"> here</a>"
+                                "Our CBIT organizes FESTIVAL every year.There are major 2 fest in our college.1)EUFORIA 2)TECH-EUFORIA. Visit <a target=\"_blank\" href=\"https://phcet.ac.in/news-and-events/news-notifications/\"> here</a>"
                         ],
                         "context_set": ""
                 },
@@ -363,7 +363,7 @@
                                 "What is next lecture"
                         ],
                         "responses": [
-                                "Syllabus of all years and departments is available in the link below. <a target=\"_blank\" href=\"https://phcet.ac.in/academics/syllabus/\"> here</a>"
+                                "Syllabus of all years and departments is available in the link below. <a target=\"_blank\" href=\"https://cbit.ac.in/academics/syllabus/\"> here</a>"
                         ],
                         "context_set": ""
                 },
@@ -384,7 +384,7 @@
                                 "how many libraries"
                         ],
                         "responses": [
-                                "PHCET has a huge and spacious library on the second floor. For more details visit <a target=\"_blank\" href=\"https://phcet.ac.in/library/library-information/\"> here</a>"
+                                "CBIT has a huge and spacious library on the second floor. For more details visit <a target=\"_blank\" href=\"https://xbit.ac.in/library/library-information/\"> here</a>"
                         ],
                         "context_set": ""
                 },
@@ -403,7 +403,7 @@
                                 "Cafetaria"
                         ],
                         "responses": [
-                                "PHCET has canteen with variety of food available. <a target=\"_blank\" href=\"https://phcet.ac.in/about/infrastructure-and-facilities/\"> here</a>"
+                                "CBIT has canteen with variety of food available. <a target=\"_blank\" href=\"https://cbit.ac.in/about/infrastructure-and-facilities/\"> here</a>"
                         ],
                         "context_set": ""
                 },
@@ -513,7 +513,7 @@
                                "name of electrical hod"
                        ],
                        "responses": [
-                               "Dr. Panimaya Selvi Isabel A. is Electrical HOD who is available on 5th floor. To know more visit <a target=\"_blank\" href=\"https://phcet.ac.in/faculty/faculty-directory/\">here</a>"
+                               "Dr. Panimaya Selvi Isabel A. is Electrical HOD who is available on 5th floor. To know more visit <a target=\"_blank\" href=\"https://cbit.ac.in/faculty/faculty-directory/\">here</a>"
                         ],
                         "context_set": ""
                 },
@@ -590,7 +590,7 @@
                                 "facilities provided"
                         ],
                         "responses": [
-                                "PHCET provides Labs with internet connection, smart classroom, Auditorium, library,canteen. Labs are equipped with modern technologies. Also there is bus facility for the students and faculty"
+                                "CBIT provides Labs with internet connection, smart classroom, Auditorium, library,canteen. Labs are equipped with modern technologies. Also there is bus facility for the students and faculty"
                         ],
                         "context_set": ""
                 },
@@ -741,7 +741,7 @@
                                 "list of buses for travelling"    
                         ],
                         "responses":[
-                                "PHCET provides bus facility to students through various places like Panvel, Kharghar, Uran, Alibag, Pen, Karjat, etc."
+                                "CBIT provides bus facility to students through various places like Panvel, Kharghar, Uran, Alibag, Pen, Karjat, etc."
                         ]
                 },
                 {
@@ -810,7 +810,7 @@
                                 "faculty?"
                         ],
                         "responses":[
-                                "PHCET has a highly qualified and experienced faculty. For details visit <a target=\"_blank\" href=/\"https://phcet.ac.in/faculty/faculty-directory/\">here</a>"
+                                "CBIT has a highly qualified and experienced faculty. For details visit <a target=\"_blank\" href=/\"https://phcet.ac.in/faculty/faculty-directory/\">here</a>"
                         ]
                 },
                 {
@@ -857,7 +857,7 @@
                                 "please provide sports and games information"
                         ],
                         "responses":[
-                                "PHCET encourages all-round development of students and hence provides sports facilities in the campus. For more details visit<a target=\"_blank\" href=/\"https://phcet.ac.in/students/sports-and-games/\">here</a>"
+                                "CBIT encourages all-round development of students and hence provides sports facilities in the campus. For more details visit<a target=\"_blank\" href=/\"https://phcet.ac.in/students/sports-and-games/\">here</a>"
                         ]
                 },
                 {
@@ -886,7 +886,7 @@
                                 "fests?"
                         ],
                         "responses":[
-                                "PHCET encourages all-round development of students and hence organizes vibrant fests like Euforia and Tech Euforia in the campus. For more details visit<a target=\"_blank\" href=/\"https://phcet.ac.in/students/campus-fest/euforia/\">here</a>"
+                                "CBIT encourages all-round development of students and hence organizes vibrant fests like Euforia and Tech Euforia in the campus. For more details visit<a target=\"_blank\" href=/\"https://phcet.ac.in/students/campus-fest/euforia/\">here</a>"
                         ]
                 }
                 
